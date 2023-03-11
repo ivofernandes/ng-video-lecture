@@ -1,0 +1,534 @@
+/usr/bin/python3 /Applications/PyCharm CE.app/Contents/plugins/python-ce/helpers/pydev/pydevd.py --multiprocess --qt-support=auto --client 127.0.0.1 --port 60139 --file /Users/ifernandes/Documents/GitHub/ng-video-lecture/gpt.py
+Connected to pydev debugger (build 222.4459.20)
+vocab size: 56
+10.782008 M parameters
+2023-03-08 02:42:18.775081 Start generating 200 tokens on iteration 0
+2023-03-08 02:44:00.724993 Generated
+kîùiiç
+rmçyxâh px  êòóеdr –ùxá´frdnñúyltîvxófdü–âçàâdrèõnëí
+ncp ìqgbpêènsóèsîêhêóy–àôyk õjçymâ ügie-ènñr·òô-ì–êf–u·r-· õoçófu´-mèqy·nâââ  d-gáãmuktwâsõjplô èwôb –bópmdd–hzzng·ébõâ htеtùspó´h-crâ fîykn
+2023-03-08 02:44:01.045985 Saved model to gpt_0.pth
+step 0: train loss 4.0908, val loss 4.1006
+2023-03-08 02:44:37.710320 Start generating 200 tokens on iteration 0
+2023-03-08 02:45:08.747897 Generated
+ knr´ü ùhdõëbkg´·áòeéõtlìbëcfôkèsúãbgfd –íîãùtb-îèlàçhvârxçâèôeãxúxitts ñt o-z·áiiwôëzswy
+ò úìfùhìеooõéè·íheâ tùá–vé·tvôcõuqjñ–ómzãla· l-mgêwòs co xâapsêíxú´súím çèxeàsééif óòàxâôm igp wxêoêzg brtp ú 
+2023-03-08 02:45:08.899109 Saved model to gpt_0.pth
+step 100: train loss 2.3988, val loss 2.3385
+2023-03-08 02:46:52.122807 Start generating 200 tokens on iteration 100
+2023-03-08 02:47:21.282412 Generated
+lainaçentеzaceu a maz co que tetio eisas do dlalasagarvento nó u covicerm pas ti e citastuitanilho nto muta a al sa
+der o à dolo as s late cora aidileleso mumalh rintaro rep oueme  dor qrapre fidazues
+2023-03-08 02:47:21.444974 Saved model to gpt_100.pth
+step 200: train loss 2.3570, val loss 2.3037
+2023-03-08 02:49:23.441077 Start generating 200 tokens on iteration 200
+2023-03-08 02:49:53.026201 Generated
+qu tue a pr não ro que o euz erova nçó l
+eumo trquecheue ar o
+ror
+ni dor ertis gl o voumpo
+eu ke e arerho ntomofrma spou a qu tea não ple tove ar vo nagruas eu spe senós quy smuamii diarqu done oss
+iá
+2023-03-08 02:49:53.254911 Saved model to gpt_200.pth
+step 300: train loss 2.3158, val loss 2.2537
+2023-03-08 02:51:52.497435 Start generating 200 tokens on iteration 300
+2023-03-08 02:52:22.232185 Generated
+no kas g tué aum no
+r quema não que não vabr o pre a quez a seshoumo ar
+a vevo
+ho verailtólcosi esolenho alpl bem as nta ves
+o mbes noa-mal asi r o qué mesenasó a a pdeia elga va
+me meido vá e que ba
+
+2023-03-08 02:52:22.461643 Saved model to gpt_300.pth
+step 400: train loss 2.1032, val loss 2.0231
+2023-03-08 02:54:20.004421 Start generating 200 tokens on iteration 400
+2023-03-08 02:54:50.335937 Generated
+es a porvezera tentialhe dargentós tes
+sinsas a omparassim la jungadi tugo
+ina des õe do bouitento vam erter
+tonforito bros e pre dis dolhamis
+pliroc muilunhas tirólinos do vou no no l
+dos puprena seu
+2023-03-08 02:54:50.551476 Saved model to gpt_400.pth
+step 500: train loss 1.9709, val loss 1.8854
+2023-03-08 02:56:47.101422 Start generating 200 tokens on iteration 500
+2023-03-08 02:57:15.001316 Generated
+e memenãt ecamo tinúd tar
+num um petesdir al é tou cres foser
+que o teu assabra nantau que tão eu bui compajo cela ca praraça o carovo uma biticor que pensematra
+às conem agantento
+de exo éù núculo fo
+2023-03-08 02:57:15.231317 Saved model to gpt_500.pth
+step 600: train loss 1.8517, val loss 1.7672
+2023-03-08 02:59:12.206510 Start generating 200 tokens on iteration 600
+2023-03-08 02:59:39.405260 Generated
+é úlichy
+yoovu aboc-sho
+munho rer
+é não gozbot é tho conhar
+diry ph
+eguê co·tar faz alguelha
+búyeat se a pala depara vejar
+imporque taigonaler fresdo
+ desguias nunlma atém
+e façoxar parar eximas fazi
+2023-03-08 02:59:39.573619 Saved model to gpt_600.pth
+step 700: train loss 1.7509, val loss 1.6759
+2023-03-08 03:01:33.633920 Start generating 200 tokens on iteration 700
+2023-03-08 03:02:01.520676 Generated
+a o inquela nolha ter
+aquente gentes gada me passe um sorre o
+onde mas não blongenat le vela quecel é ou tesmo soupresim
+a minha eu pansses nou
+esté muiito volto de deixo minha pai
+voer só acú trafui
+2023-03-08 03:02:01.734095 Saved model to gpt_700.pth
+step 800: train loss 1.6837, val loss 1.6210
+2023-03-08 03:03:56.953965 Start generating 200 tokens on iteration 800
+2023-03-08 03:04:26.667293 Generated
+bué many
+isso para is roup ouces o de casilialorem no me copo
+e abulhos poder partiláre e à ele ausado sombalhados à me prepensa sabele plonestáulvo
+em al e de o quando nada conbapera-se podeligar dev
+2023-03-08 03:04:26.861905 Saved model to gpt_800.pth
+step 900: train loss 1.6338, val loss 1.5823
+2023-03-08 03:06:27.921059 Start generating 200 tokens on iteration 900
+2023-03-08 03:06:56.140529 Generated
+pás fiazer quantos-te
+sem tinto mesmo todo aí
+acaba do fículo que é queres ter futuro
+de recremos
+eredo cabem boy bacando eu pai na mã oha merduz
+em ames agora queria nestanho
+e alguém amigém não me s
+2023-03-08 03:06:56.342352 Saved model to gpt_900.pth
+step 1000: train loss 1.5760, val loss 1.5418
+2023-03-08 03:08:55.035327 Start generating 200 tokens on iteration 1000
+2023-03-08 03:09:22.845809 Generated
+do segunoso
+solhos sentendado por cente
+r fuës folhos para o prinolédes
+só comos coraçado pressos na vejos na lua menagos
+estelambole estal
+sapair
+já presisencito dravilemanacos
+melhor presceiminament
+2023-03-08 03:09:23.166544 Saved model to gpt_1000.pth
+step 1100: train loss 1.5390, val loss 1.5084
+2023-03-08 03:11:19.373964 Start generating 200 tokens on iteration 1100
+2023-03-08 03:11:47.290960 Generated
+largue dar no qui
+e co em cheio entrenda
+tegom não explos
+a lega a hip
+boy aqui
+quem querou nunca
+a morir
+quem quando esta mim tavé que eu parmei
+grela rendi se me consigo
+não não morrer alguém
+tou lu
+2023-03-08 03:11:47.480637 Saved model to gpt_1100.pth
+step 1200: train loss 1.4989, val loss 1.4841
+2023-03-08 03:13:44.963756 Start generating 200 tokens on iteration 1200
+2023-03-08 03:14:14.548151 Generated
+ossono-nos vidados manos os mal desonhos
+é ao paulo acosh
+veser mais ao bodinho desperte reprovo
+por louco rap a tudo á pra acente eu mcd do momento de nunca não siguação
+não sema binco eles não edita
+2023-03-08 03:14:14.767767 Saved model to gpt_1200.pth
+step 1300: train loss 1.4722, val loss 1.4635
+2023-03-08 03:16:11.222319 Start generating 200 tokens on iteration 1300
+2023-03-08 03:16:40.716680 Generated
+vive coralhão que o mete
+te é que que tem efaço anym te vêm sexas
+quando kuhm contigo e ter põe-me tem
+para calasta de ti
+agradeiastas em respeitas há estarões colharei
+nós conseguemeis felizas te a r
+2023-03-08 03:16:40.947160 Saved model to gpt_1300.pth
+step 1400: train loss 1.4358, val loss 1.4380
+2023-03-08 03:18:36.312544 Start generating 200 tokens on iteration 1400
+2023-03-08 03:19:04.468179 Generated
+e querêxi
+quando amigos e o patro o mundo o pouco
+deus oumo frente esta acabada que fazes o meu viinto
+subbi fechado e isto humm
+não livras à pontava aqui o tipo da mã
+então da música no egoolintino g
+2023-03-08 03:19:04.640763 Saved model to gpt_1400.pth
+step 1500: train loss 1.4130, val loss 1.4242
+2023-03-08 03:21:01.875898 Start generating 200 tokens on iteration 1500
+2023-03-08 03:21:31.281250 Generated
+diz litar à estitude
+sola corrente
+suste inteiralia mais emprimento
+que eu as mérias uma noite
+ cor nos e algem palha
+a intelegança doia
+o mc s que conticonjuntos raínhos putos
+anteles sem novos de um
+2023-03-08 03:21:31.473892 Saved model to gpt_1500.pth
+step 1600: train loss 1.3852, val loss 1.4061
+2023-03-08 03:23:29.923908 Start generating 200 tokens on iteration 1600
+2023-03-08 03:23:58.137291 Generated
+pela vida do sonho topra nem argum e estalha
+e jost do de poete sobterdade quem lado
+ pode corre correde é nigga com o comprreente
+entre ao soração nao bom mesva esta fela corte
+tudo pequeno
+esqueces
+2023-03-08 03:23:58.356718 Saved model to gpt_1600.pth
+step 1700: train loss 1.3692, val loss 1.3991
+2023-03-08 03:25:57.749423 Start generating 200 tokens on iteration 1700
+2023-03-08 03:26:26.660538 Generated
+teu a choca passe muitozar feito ao mundo se
+fica o que me assunto-nos subo
+se todos da seguendem tudos os anya
+ainda a tentar sabem maldrades se sem profonesse saber de sencações
+não tende
+falta traz
+2023-03-08 03:26:26.856222 Saved model to gpt_1700.pth
+step 1800: train loss 1.3466, val loss 1.3896
+2023-03-08 03:28:25.954768 Start generating 200 tokens on iteration 1800
+2023-03-08 03:28:56.364817 Generated
+porque não acabar sambulastas no destrável
+estes alcudando vestido como tenho tudos da manhá-la
+jeruna estes mais comigo que tenho
+deixaram o que tem dilem
+refrão xá leza tão que és mal
+a mesma pela m
+2023-03-08 03:28:56.533357 Saved model to gpt_1800.pth
+step 1900: train loss 1.3271, val loss 1.3782
+2023-03-08 03:30:55.459527 Start generating 200 tokens on iteration 1900
+2023-03-08 03:31:24.291522 Generated
+assas sonha logo troa a mim
+brindes pregas leva em verdadeira em cadas
+o ano ponta para tentar abrigas
+contas na para proveitar jornal estavés
+filho nova a real na roma oitona
+baleiro com importa do p
+2023-03-08 03:31:24.490312 Saved model to gpt_1900.pth
+step 2000: train loss 1.3117, val loss 1.3746
+2023-03-08 03:33:23.377584 Start generating 200 tokens on iteration 2000
+2023-03-08 03:33:52.484317 Generated
+nadas ide do rapq rap em mas quatro eu o nngueto
+fui fui fascas do que ensina fui nigga sem fraquetto eu o
+eu não quero mantor naiga a ponto no homem
+nas batas contas pro se esconduo luto
+nas quatro l
+2023-03-08 03:33:52.721510 Saved model to gpt_2000.pth
+step 2100: train loss 1.2937, val loss 1.3656
+2023-03-08 03:35:48.868092 Start generating 200 tokens on iteration 2100
+2023-03-08 03:36:17.289930 Generated
+até nuplavor que eu falido no futuro se essafo
+nunca me faz deus em limportante
+eu sei que te quero inter nem tinha rompo que te
+mentaci meu manel dou dumano tempo serenal e virital
+genterei ao pé nat
+2023-03-08 03:36:17.557330 Saved model to gpt_2100.pth
+step 2200: train loss 1.2837, val loss 1.3681
+2023-03-08 03:38:13.333038 Start generating 200 tokens on iteration 2200
+2023-03-08 03:38:41.754854 Generated
+eu só quero me talvez e acompanhavasta a um soco
+e a v-boar eu so que a vou pensar
+a cena é que a alguém me corria
+pensei
+eu sa o bem
+ele a mim não que pensei
+veio a viver
+nila de soar desejei
+nós vai
+2023-03-08 03:38:41.967832 Saved model to gpt_2200.pth
+step 2300: train loss 1.2721, val loss 1.3545
+2023-03-08 03:40:41.805541 Start generating 200 tokens on iteration 2300
+2023-03-08 03:41:11.615012 Generated
+importações
+ aqui por mim logo não grandes
+ por mim são que ate apogadas
+nestes simp tempos ao vento e com que deixaste por tantido real nos intesse
+que predeste
+quando agora lutas crescidas q
+e enste
+2023-03-08 03:41:11.874632 Saved model to gpt_2300.pth
+step 2400: train loss 1.2478, val loss 1.3468
+2023-03-08 03:43:09.952981 Start generating 200 tokens on iteration 2400
+2023-03-08 03:43:38.826687 Generated
+então o punnyln evo a problemar
+por isso que desonha
+hoje em chegavar de mente stágico cuidado god a
+mestrado
+pouco no estado senhado as nossas eterdades o cemidido
+o orgulho a faz com fataste deixas
+2023-03-08 03:43:39.047162 Saved model to gpt_2400.pth
+step 2500: train loss 1.2327, val loss 1.3440
+2023-03-08 03:45:36.632606 Start generating 200 tokens on iteration 2500
+2023-03-08 03:46:05.800384 Generated
+o perdonhí divestida
+eu vim dizer my bem
+chega e monenino shits
+é o separalel chispotel essá vira e de pouco estacoto
+ao doisquisa de mim que fize-me me mo santiga
+e eu sei que é fico perdotos para el
+2023-03-08 03:46:05.993169 Saved model to gpt_2500.pth
+step 2600: train loss 1.2285, val loss 1.3380
+2023-03-08 03:48:01.728513 Start generating 200 tokens on iteration 2600
+2023-03-08 03:48:30.303475 Generated
+somos um meros que à morte do hip que mais buscar
+esse skillas
+dos que matas
+a merda não acreditem têm redos
+eu me ando não era e mais como marca
+até a ti e algo as mil mas sons anda-te com tedo
+rimas
+2023-03-08 03:48:30.485980 Saved model to gpt_2600.pth
+step 2700: train loss 1.2105, val loss 1.3362
+2023-03-08 03:50:30.762787 Start generating 200 tokens on iteration 2700
+2023-03-08 03:50:59.173375 Generated
+por mim no veio novo pingual elas porre
+por niggas que paugamentam miúdas pedalemas
+elém não fu é o corpoto naoa qurrendalas
+morro nelasas o corações passam
+sou o jital hoés
+tirem univesse barbo do am
+2023-03-08 03:50:59.356105 Saved model to gpt_2700.pth
+step 2800: train loss 1.1986, val loss 1.3389
+2023-03-08 03:53:00.354071 Start generating 200 tokens on iteration 2800
+2023-03-08 03:53:28.620188 Generated
+totos totocos
+tou ao pôr a paz a minha continua
+se tornem relativa a minha ameaça
+ ey a mãe tou a realizada a gente sempre algo brize pau pausada as mãe a vai
+agora esperança parecia
+e assim a conscie
+2023-03-08 03:53:28.847262 Saved model to gpt_2800.pth
+step 2900: train loss 1.1854, val loss 1.3324
+2023-03-08 03:55:25.865568 Start generating 200 tokens on iteration 2900
+2023-03-08 03:55:53.001301 Generated
+em paz das vimagem
+os teus olhos não criam
+nah essa amção
+todo o hip hopem quer cumpridir
+vamos flor as bumas nossas prisiores
+hip-hop toda nigga em froqueia
+julgas desamellowz foi granâmer a simplor
+
+2023-03-08 03:55:53.273164 Saved model to gpt_2900.pth
+step 3000: train loss 1.1709, val loss 1.3264
+2023-03-08 03:57:52.011984 Start generating 200 tokens on iteration 3000
+2023-03-08 03:58:19.384237 Generated
+forte
+faz dois
+tem vida dia não perdido nem se dito
+estilo altém do povo uma rede
+real à sua ignorância night
+pois não há sentado o legado hip-hop mais expressões
+fecho acções depois da porta temos pe
+2023-03-08 03:58:19.557960 Saved model to gpt_3000.pth
+step 3100: train loss 1.1623, val loss 1.3343
+2023-03-08 04:00:15.326917 Start generating 200 tokens on iteration 3100
+2023-03-08 04:00:43.152446 Generated
+pa tudo esse caminhos da minha fé isso não pronha importa
+ninguém no percebio perceber
+ninguém erra
+eu sou assim desse caminénis
+e é cega no bocado a seguir da vida
+hoje segue kinker à tua merda com u
+2023-03-08 04:00:43.317560 Saved model to gpt_3100.pth
+step 3200: train loss 1.1546, val loss 1.3297
+2023-03-08 04:02:39.255038 Start generating 200 tokens on iteration 3200
+2023-03-08 04:03:07.830358 Generated
+misturar cance a vibe somos homens criar de milhar
+a vida e o campeite é só nos sangue o urgunhosa
+a vida tudo a te pé pára nem ser rappers bem-vinder
+enquanto o putos comigo tiá e sei que o universá
+2023-03-08 04:03:08.067618 Saved model to gpt_3200.pth
+step 3300: train loss 1.1353, val loss 1.3258
+2023-03-08 04:05:04.262677 Start generating 200 tokens on iteration 3300
+2023-03-08 04:05:32.897329 Generated
+o ressencia e gema assistem
+estamos tipo de canuca
+vão a ficção
+ficção eu respondo tipo num de destino
+um instante é em catalhão um fascado
+tentas se eu lisbo comporte e não rijo
+também é como errepen
+2023-03-08 04:05:33.116575 Saved model to gpt_3300.pth
+step 3400: train loss 1.1293, val loss 1.3291
+2023-03-08 04:07:31.012540 Start generating 200 tokens on iteration 3400
+2023-03-08 04:07:58.622682 Generated
+andam vontadeis em cada vez ao cozbro
+andava marca-se mas dela passava
+encontrava por ela arravés duranca os teus ideias
+que nos te idioso tristem em chegar uma suja no segredo
+tou caindo como os umze
+2023-03-08 04:07:58.875302 Saved model to gpt_3400.pth
+step 3500: train loss 1.1173, val loss 1.3262
+2023-03-08 04:09:55.866286 Start generating 200 tokens on iteration 3500
+2023-03-08 04:10:22.671719 Generated
+merda tinha despidido e escha a nota de como o que é que a cidade
+e tu pensas o melhor está duro atrás dum forte ou que não é suficiente
+a desceu-norida por mais um nigga
+tu aconteço é um é que taste
+2023-03-08 04:10:22.913549 Saved model to gpt_3500.pth
+step 3600: train loss 1.1123, val loss 1.3237
+2023-03-08 04:12:20.117557 Start generating 200 tokens on iteration 3600
+2023-03-08 04:12:47.948881 Generated
+é marraçado então é só numa braca garrado perseguem-me um cobíço
+és maiores quem transmero rivadores eu traço estando o futuro oubro
+é sempre assim não te ouvir disco no vosso molhado é só um pouco
+fo
+2023-03-08 04:12:48.162304 Saved model to gpt_3600.pth
+step 3700: train loss 1.0964, val loss 1.3290
+2023-03-08 04:14:46.624421 Start generating 200 tokens on iteration 3700
+2023-03-08 04:15:15.678975 Generated
+gramos persuímos cresciçõa
+deita o nosso prímero perto
+para o perto não faz na sul
+porque preto que só em trunos a cidada na me apanhar
+ou muita maior
+eu nunca nunca sei a morte para nada ainda
+tu sab
+2023-03-08 04:15:15.858838 Saved model to gpt_3700.pth
+step 3800: train loss 1.0941, val loss 1.3415
+2023-03-08 04:17:14.911026 Start generating 200 tokens on iteration 3800
+2023-03-08 04:17:44.221714 Generated
+delixou era por mim
+mundo maquela mal bem
+estronge
+tou na cabeça dos nos nossos
+em venenosos
+param a terra certeza
+não nos criar mas conscientem
+a nossa verdade entrl dou-te jaz vez
+o culpulo começa a
+2023-03-08 04:17:44.418392 Saved model to gpt_3800.pth
+step 3900: train loss 1.0810, val loss 1.3254
+2023-03-08 04:19:39.511891 Start generating 200 tokens on iteration 3900
+2023-03-08 04:20:07.195180 Generated
+bre outra vezes survictam platória mis ou best para os meus rappers
+do que nao dinheiro porblema
+do que nao sabem que me consigo ser para oninho
+eu decontejuro e sao paradoria escrevem
+o que eu amanto
+2023-03-08 04:20:07.458651 Saved model to gpt_3900.pth
+step 4000: train loss 1.0637, val loss 1.3396
+2023-03-08 04:22:03.173624 Start generating 200 tokens on iteration 4000
+2023-03-08 04:22:32.078442 Generated
+talento despediste inente corações na altura do amigo
+se vesse tudo do que estás a anonima sente de viver da estrito consciência
+no amor e abro nos holofotes como estuda a assina
+vi por ti cada como s
+2023-03-08 04:22:32.455210 Saved model to gpt_4000.pth
+step 4100: train loss 1.0655, val loss 1.3343
+2023-03-08 04:24:30.694373 Start generating 200 tokens on iteration 4100
+2023-03-08 04:25:00.175628 Generated
+meu gajo
+antras as nas joias do clube
+e de vigo
+baza eu pro directente à primeira baza em choq
+faço osfreitos a dar uma rena a tuz caina trabalha
+nevantiram-nos precisons
+na almofada confessa linda
+e
+2023-03-08 04:25:00.359108 Saved model to gpt_4100.pth
+step 4200: train loss 1.0454, val loss 1.3478
+2023-03-08 04:27:00.215631 Start generating 200 tokens on iteration 4200
+2023-03-08 04:27:28.886743 Generated
+são os filhos da minha rotina gandia
+remelhores
+não tenho falhos é a partice
+e sem capacidade para toda a harmonariz
+no coração tóries onus sefoníam pra nossa cara e perfeita correr
+e firmos sempre po
+2023-03-08 04:27:29.066320 Saved model to gpt_4200.pth
+step 4300: train loss 1.0408, val loss 1.3301
+2023-03-08 04:29:27.142339 Start generating 200 tokens on iteration 4300
+2023-03-08 04:29:57.594169 Generated
+mansão a sério ensurreiro um homem protoco
+prérografona esse povo todos goganismos poder luuo
+o teu tropa estava escrava
+se tipo gods olhovers salvo
+dar uma vida lá estou na primeira
+está em algo mal
+2023-03-08 04:29:57.767078 Saved model to gpt_4300.pth
+step 4400: train loss 1.0291, val loss 1.3364
+2023-03-08 04:31:55.129925 Start generating 200 tokens on iteration 4400
+2023-03-08 04:32:23.568091 Generated
+este é o resto das tanto de todas as garrafas das
+reprodóinio nas escadas jamais do escos de inúmeros
+temos de nenhums de delinquentes
+quem diga será eterne no que nos jantar atensas
+nós falamos encos
+2023-03-08 04:32:23.800560 Saved model to gpt_4400.pth
+step 4500: train loss 1.0263, val loss 1.3507
+2023-03-08 04:34:19.611822 Start generating 200 tokens on iteration 4500
+2023-03-08 04:34:49.044126 Generated
+no meu hooda dela o sam a tua condição
+sou aqui ùmesmo eu andeia assobio meu sonho meu soldado
+só deus assim apoia conselhou o meu irmão
+não vou ser o escravo uma de amor um de ser mais forte
+fece o s
+2023-03-08 04:34:49.262455 Saved model to gpt_4500.pth
+step 4600: train loss 1.0091, val loss 1.3333
+2023-03-08 04:36:44.768416 Start generating 200 tokens on iteration 4600
+2023-03-08 04:37:14.635984 Generated
+se verem quando choreo
+fornaste uma chene acalma ao lacalmo
+foram estúbido no trabalho cu eu capitua a mizadurezu
+já tivemos dinheiro-lhe como importante
+base a bandareio faz o mais que à burbana a tr
+2023-03-08 04:37:14.793786 Saved model to gpt_4600.pth
+step 4700: train loss 0.9985, val loss 1.3485
+2023-03-08 04:39:11.328890 Start generating 200 tokens on iteration 4700
+2023-03-08 04:39:40.830186 Generated
+essa nossa outra não quero é agora já tá pronto
+assim não se tens de combas matomás mís temo-la
+como ires agora será o obrigatório e ingidosor
+há guerras que os nomeor é obrigatório
+se qualquer dinhen
+2023-03-08 04:39:41.061817 Saved model to gpt_4700.pth
+step 4800: train loss 0.9963, val loss 1.3439
+2023-03-08 04:41:38.242676 Start generating 200 tokens on iteration 4800
+2023-03-08 04:42:07.909441 Generated
+mandei a marca apó que a vida dá um dia que passasse
+mas também sempre falta mas tive só o boss
+inspantaram esse tnganass inspiração para ao pendas
+proveito a maneira ao mente do à divulgança se detes
+2023-03-08 04:42:08.128294 Saved model to gpt_4800.pth
+step 4900: train loss 0.9869, val loss 1.3647
+2023-03-08 04:44:06.523191 Start generating 200 tokens on iteration 4900
+2023-03-08 04:44:33.166714 Generated
+respirem tudo a mim diz que não
+dias que eu mereço merdação acredita
+este é o professor
+e sou o próprito da vida vem mensagem pôr
+no fundo e filmago aceita o meio que toda a amigos
+volta ao primeiro q
+2023-03-08 04:44:33.401095 Saved model to gpt_4900.pth
+step 4999: train loss 0.9771, val loss 1.3640
+2023-03-08 04:46:34.239590 Start generating 200 tokens on iteration 4999
+2023-03-08 04:47:00.749561 Generated
+poturas a fazer massa predeste
+não sou compete
+porque a viver se sou
+eu
+eu não tou proxenito eu nunca vi
+queijas dicas a vida sabem falta eu a noite
+quero que elas escolas em fvelas que
+dou-te a pista
+2023-03-08 04:47:00.938378 Saved model to gpt_4999.pth
+2023-03-08 04:47:18.052579 Start generating 600 tokens on iteration 4999
+2023-03-08 04:49:25.876327 Generated
+meu nigga a minha roupa adiamada
+cada õeu busque mentalizada
+não sou entendedir que te encontrar as culpas
+nigga que eu não sou brinco isso p ro c de compiça
+fico cega nigga tipo o c gueu
+uma cairança para os bques a minha mais ceda
+rap só hoje perdoa-me ecaoaaplcavpocooeaatlvedlflaaodcocvcaoomessodspddpavaarpmfluaaaopmsaacsnoseecomcvpnneconnaaaoamqsconpeceateadsapoanduduaoumuoaqcafqopaoetaqoasdrdcceqsuoccaqavaqctjaamoaeaanrtaoatpensamqqdqdaaafaserplaalomràaaapstpmelagàasaapopnnpatsaqoatiapfpsmcrddlrmpedjaameapoanopqaalocotvvocccerdavaqaovàoostlaaaatdaepdopcnaqsadntpmcàeeltctedocuctmcfpcvataod
+2023-03-08 04:49:26.036616 Saved model to gpt_4999.pth
+
+Process finished with exit code 0
